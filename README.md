@@ -1,1 +1,1 @@
-# course-projects
+# Homework and Projects
